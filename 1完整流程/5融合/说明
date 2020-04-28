@@ -1,0 +1,5 @@
+lgb_result　存放ｌｇｂ结果
+xgb_result　存放ｘｇｂ结果
+xdeepfm_result　存放ｘｄｅｅｐｆｍ结果
+
+运行：ｃｏｍｂｉｎｅ．ｉｎｐｙ文件
